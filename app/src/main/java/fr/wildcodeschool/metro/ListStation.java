@@ -58,6 +58,7 @@ public class ListStation extends AppCompatActivity implements NavigationView.OnN
         View headerView = navigationView.getHeaderView(0);
         TextView navUsername = headerView.findViewById(R.id.tvUserName);
         navUsername.setText(name);
+        navUsername.setText(name);
     }
 
     private void switchActivity() {
