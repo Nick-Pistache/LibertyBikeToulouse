@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <paths xmlns:android="http://schemas.android.com/apk/res/android">
+        <external-path
+            name="my-images"
+            path="Android/data/fr.wildcodeschool.metro/files/Pictures" />
+    </paths>
+
+</resources>
+
+
+

@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorPrimary">#008577</color>
+    <color name="colorActionbar">#e9eec4</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="colorNavigationBackground">#ffff</color>
+    <color name="colorNavigationText">#000</color>
+    <color name="colorSeekBar1">#edf122</color>
+    <color name="colorSeekBar2">#a4a40a</color>
 </resources>

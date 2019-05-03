@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "89051023672",
+    "firebase_url": "https://toulouse-0219-java-velo.firebaseio.com",
+    "project_id": "toulouse-0219-java-velo",
+    "storage_bucket": "toulouse-0219-java-velo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89051023672:android:03e05cf4bec0506f",
+        "android_client_info": {
+          "package_name": "fr.wildcodeschool.metro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89051023672-l62ct47flok6qc8rjidc5297phm3j5p8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.wildcodeschool.metro",
+            "certificate_hash": "5903aea6f2497c1f327e9e8703d4f8126d580acf"
+          }
+        },
+        {
+          "client_id": "89051023672-0b16pi3a5l3kfs1miraqi6b8d5lsl1pu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.wildcodeschool.metro",
+            "certificate_hash": "233624ac76dbf5c90a196d3142e2d0b33f5dde62"
+          }
+        },
+        {
+          "client_id": "89051023672-dme7a86jjk0oohe5an66cjgde27s32q1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.wildcodeschool.metro",
+            "certificate_hash": "22008293a67abbfe31931af6a0e8919ab6a7a378"
+          }
+        },
+        {
+          "client_id": "89051023672-7quvn3iijsmg82dtfqojdg29q3jqhlae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCsU83UMQPNTShYbr3QLEdw-uEZXQi0kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89051023672-7quvn3iijsmg82dtfqojdg29q3jqhlae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
